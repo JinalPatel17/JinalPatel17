@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on own Portfolio website.<br>👯 I’m looking to collaborate on Web development and Data analytics.<br>🤝 I’m looking for help with Data analytics and related fields.<br>🌱 I’m currently learning Artificial intelligence and data analytics.<br>💬 Ask me about Web Development.<br>⚡ Fun fact: Fast learner, Team Player and always happy to help.
+👨‍🎓I'm a Computer Science Engineer.<br>🔭 I’m currently working on own Portfolio website.<br>👯 I’m looking to collaborate on Web development and Data analytics.<br>🤝 I’m looking for help with Data analytics and related fields.<br>💻 I’m currently learning Artificial intelligence and data analytics.<br>💬 Ask me about Full Stack Development or Machine learning.<br>⚡ My Perquisite: Fast learner, Team Player and always happy to help.
 
 
 ## 🌐 Socials:
@@ -20,10 +20,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JinalPatel17&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=JinalPatel17&icon=0&color=0)](https://visitcount.itsvg.in)
 
