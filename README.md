@@ -109,9 +109,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&?border=true&theme=gruvbox)
 
 
-## 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jinal-patel17) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rptqexxBHd) 
