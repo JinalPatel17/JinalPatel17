@@ -10,6 +10,12 @@
 ⚡ Fast learner | Team player | Problem solver | Lifelong learner<br>
 📫 Feel free to reach out if you'd like to collaborate or discuss technology.<br>
 
+# 🌐 Socials:
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jinalptl17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jinal-patel17) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/502866986221568010)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18771824)
+
 
 # 💻 Tech Stack:
 
@@ -94,28 +100,16 @@
 
 <br>
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jinalpatel17&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jinalpatel17&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jinalpatel17&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jinalpatel17&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jinalpatel17&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jinalpatel17&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jinalpatel17&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=jinalpatel17&icon=2&color=4)](https://visitcount.itsvg.in)
 
 ## ✍️ Quote of the day:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&?border=true&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&?border=true&theme=gruvbox) 
 
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jinal-patel17) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/502866986221568010)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18771824)
+<br>
 
 # ✌️ Buy me a Coffee ☕
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jinalpatel) 
