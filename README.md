@@ -1,11 +1,14 @@
 # 😎 About Me: <br>
-👨‍🎓 I'm a Computer Science Engineer.<br>
-🤩 I’m currently working on own Portfolio Website.<br>
-🤗 I’m looking to collaborate on Web Dev, Data analytics and DevOps.<br>
-🤝 I’m looking for help with Data Analytics, Cloud Computing, DevOps or related fields.<br>
-💻 I’m currently learning Cloud Computing and Blockchain.<br>
-💬 Ask me about Full Stack Development or Machine learning.<br>
-⚡ My Perquisite: Fast learner, Team Player and always happy to help.<br>
+👋 Hi, I'm a Computer Science Graduate who enjoys turning ideas into practical software solutions.<br>
+💻 I specialize in Full-Stack Web Development and have experience working with data analytics, systems analysis, cloud technologies, and IT solutions.<br>
+🚀 Currently focused on building personal projects, expanding my technical expertise, and preparing for the ITIL 4 Foundation certification.<br>
+💼 Alongside my personal projects, I work with clients on freelance web development and technology initiatives, helping businesses strengthen their digital presence.<br>
+📊 I enjoy working with data, developing scalable applications, solving complex problems, and creating solutions that deliver real business value.<br>
+☁️ My interests include Cloud Computing, DevOps, Data Analytics, Automation, and Blockchain Technology.<br>
+🤝 I'm always open to collaborating on exciting projects and connecting with other developers and technology enthusiasts.<br>
+💬 Ask me about Full-Stack Development, Web Technologies, Machine Learning, Data Analytics, or Cloud Computing.<br>
+⚡ Fast learner | Team player | Problem solver | Lifelong learner<br>
+📫 Feel free to reach out if you'd like to collaborate or discuss technology.<br>
 
 
 # 💻 Tech Stack:
@@ -111,11 +114,8 @@
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jinal-patel17) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rptqexxBHd) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/patel.jinal.2917) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uncensoredpatel) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18771824) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jinalpatel17) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/502866986221568010)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18771824)
 
 # ✌️ Buy me a Coffee ☕
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jinalpatel) 
