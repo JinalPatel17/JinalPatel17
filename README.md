@@ -101,9 +101,9 @@
 <br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=jinalpatel17&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=jinalpatel17&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jinalpatel17&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/>
+![](https://github-readme-stats.vercel.app/api?username=jinalpatel17&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jinalpatel17&theme=onedark&hide_border=true)<br/>
 
 
 ## ✍️ Quote of the day:
